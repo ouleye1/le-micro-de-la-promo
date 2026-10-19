@@ -13,3 +13,13 @@ Episode 2 : les assos de l'ecole.
 
 Episode 3 : apres le diplome.
 
+materiel.txt :
+
+2 micros cravate
+
+1 enregistreur
+
+1 carte SD
+
+
+
