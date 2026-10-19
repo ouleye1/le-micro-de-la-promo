@@ -5,6 +5,8 @@ Podcast etudiant. Un episode par mois.
 TP machine Git et GitHub
 Etudiant :
 
+lundi
+
 episodes.txt :
 
 Episode 1 : la vie en alternance.
